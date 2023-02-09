@@ -24,7 +24,7 @@ android {
 }
 
 dependencies {
-    implementation "androidx.fragment:fragment:1.1.0"
+    implementation 'androidx.fragment:fragment:1.5.5'
     implementation "androidx.recyclerview:recyclerview:$androidx_recyclerview_version"
     implementation "androidx.preference:preference:$androidx_preference_version"
 
